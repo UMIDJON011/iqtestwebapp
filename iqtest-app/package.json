@@ -1,0 +1,12 @@
+{
+  "name": "iqtest",
+  "version": "1.0.0",
+  "description": "IQ Test - Mantiqiy Fikrlash Testi",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
